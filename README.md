@@ -26,8 +26,8 @@ I'm a passionate developer focused on building clean, reliable, and impactful so
 
 ## 🤝 Let's Connect
 
-- 📫 Email: your.email@example.com
-- 💼 LinkedIn: https://www.linkedin.com/in/your-username
+- 📫 Email: abdulsubhanlone3@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/abdul-subhan-lone-2355a9323/
 
 ---
 
