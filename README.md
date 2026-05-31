@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Subhan 👋
 
-<!--
-**subhanlone/subhanlone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building clean, reliable, and impactful software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💼 Open to software development opportunities and collaborations
+- 🚀 Interested in building scalable web applications and developer-friendly tools
+- 📚 Always learning and improving through real-world projects
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Python, SQL
+- **Frontend:** React, Next.js, HTML, CSS
+- **Backend:** Node.js, Express
+- **Database:** PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, Docker, VS Code
+
+## 🌱 Current Focus
+
+- Writing maintainable, production-ready code
+- Strengthening system design and backend architecture skills
+- Contributing to meaningful open-source projects
+
+## 🤝 Let's Connect
+
+- 📫 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/your-username
+
+---
+
+Thanks for visiting my profile!
